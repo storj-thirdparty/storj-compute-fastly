@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/karl/code/utropic/storj/projects/fastly/fastly-compute-integration/target/debug/build/typenum-ac781be186fb119c/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/karl/code/utropic/storj/projects/fastly/fastly-compute-integration/target/debug/build/typenum-ac781be186fb119c/out/op.rs
