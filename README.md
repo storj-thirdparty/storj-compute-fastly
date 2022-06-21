@@ -26,7 +26,7 @@ Serve objects from a Storj bucket using Fastly Compute@Edge.  Enables dynamic lo
 
 When deploying your project, you will be prompted to configure the `bucket_origin` backend. You can enter your bucket host here, or just hit enter to accept the defaults if you want to experiment with our mock backend:
 
-```
+```plain
 Configure a backend called 'bucket_origin'
 
 Hostname or IP address: [mock-s3.edgecompute.app]
