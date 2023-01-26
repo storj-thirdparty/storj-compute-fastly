@@ -1,8 +1,15 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["<karl@storj.io>"]
+description = "Use Storj as a backend origin for service decentralized objects to the fastly Compute@Edge service."
+language = "rust"
 manifest_version = 2
 name = "Integrate Storj using Rust"
-description = "Use Storj as a backend origin for service decentralized objects to the fastly Compute@Edge service."
-authors = ["<karl@storj.io>"]
-language = "rust"
+service_id = ""
+
+[scripts]
+  build = "cargo build --bin compute-starter-kit-static-content --release --target wasm32-wasi --color always"
 
 [setup]
 
