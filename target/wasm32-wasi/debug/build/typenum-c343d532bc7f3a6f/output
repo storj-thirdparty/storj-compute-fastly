@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/journiemajohnson/Work/storj-compute-fastly/target/wasm32-wasi/debug/build/typenum-c343d532bc7f3a6f/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/journiemajohnson/Work/storj-compute-fastly/target/wasm32-wasi/debug/build/typenum-c343d532bc7f3a6f/out/op.rs

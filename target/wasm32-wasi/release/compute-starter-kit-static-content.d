@@ -1,1 +1,0 @@
-/Users/journiemajohnson/Work/storj-compute-fastly/target/wasm32-wasi/release/compute-starter-kit-static-content.wasm: /Users/journiemajohnson/Work/storj-compute-fastly/src/awsv4.rs /Users/journiemajohnson/Work/storj-compute-fastly/src/config.rs /Users/journiemajohnson/Work/storj-compute-fastly/src/main.rs

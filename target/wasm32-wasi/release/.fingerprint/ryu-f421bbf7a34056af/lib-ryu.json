@@ -1,1 +1,0 @@
-{"rustc":4844661969156876459,"features":"[]","target":17765967445257618929,"profile":8744745490098554198,"path":13275407019327268121,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/release/.fingerprint/ryu-f421bbf7a34056af/dep-lib-ryu"}}],"rustflags":["-C","debuginfo=2"],"metadata":10387617312689919117,"config":2202906307356721367,"compile_kind":16489420942494921214}

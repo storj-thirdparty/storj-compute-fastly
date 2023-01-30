@@ -1,1 +1,0 @@
-{"rustc":4844661969156876459,"features":"[]","target":11636226421757241753,"profile":3735503092003429423,"path":8309030675914816675,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/debug/.fingerprint/mime-8bd9192956dc5307/dep-lib-mime"}}],"rustflags":["--deny","warnings"],"metadata":9035816696660524183,"config":2202906307356721367,"compile_kind":16489420942494921214}
